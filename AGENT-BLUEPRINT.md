@@ -1,4 +1,4 @@
-# Agentic Systems Framework
+# Agent Blueprint
 
 > A framework-agnostic reference for building reliable agentic systems.
 > Use as a living project checklist — track, address, and document architectural decisions on a per-project basis.
